@@ -6,4 +6,4 @@ Platforms:
   - BeeCrowd
 
 Goal: 
-  - Improve my problem solving skills and create an habit. 
+  - Improve my problem solving skills and create an habit.
